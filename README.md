@@ -34,4 +34,4 @@ PREDICTING DOLLAR PRICES
 
 <p><h2>Курс гривна/доллар. Основные тренды и сезонные закономерности.</h2></p>
 
-<img src="https://github.com/StanislavChesnokov/ML-PREDICTING_DOLLAR_PRICES/predict_trend.png" width="640" height="638" alt="PREDICTING DOLLAR">
+<a href="https://github.com/StanislavChesnokov/ML-PREDICTING_DOLLAR_PRICES/blob/main/predict_trend.png">Открыть график -> (predict_trend.png)</a>
