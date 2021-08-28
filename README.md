@@ -2,7 +2,7 @@ PREDICTING DOLLAR PRICES
 
 <strong>Цель:</strong> Прогноз курса доллар/гривна на день, неделю и месяц. Поиск сезонных закономерностей.
 
-<strong>Задача:</strong> Прогнозирование временных рядов. Метрики качества - MAPE, MSE.
+<strong>Задача:</strong> Прогнозирование временных рядов. Метрики качества - MAPE, MAE.
 
 <strong>Datasets:</strong> api.privatbank.ua
 
@@ -31,3 +31,7 @@ PREDICTING DOLLAR PRICES
 </ul>
 </li>
 </ol>
+
+<p><h2>Курс гривна/доллар. Основные тренды и сезонные закономерности.</h2></p>
+
+<img src="https://github.com/StanislavChesnokov/ML-PREDICTING_DOLLAR_PRICES/predict_trend.png" width="640" height="638" alt="PREDICTING DOLLAR">
